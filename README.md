@@ -1,6 +1,6 @@
 # Windows XP Layout for SpaceHey
 
-A very simple and basic Windows XP layout for [SpaceHey]("https://spacehey.com/home") base on https://botoxparty.github.io/XP.css/
+A very simple and basic Windows XP layout for [SpaceHey]("https://spacehey.com/home") based on https://botoxparty.github.io/XP.css/
 
 Usage
 
